@@ -5,5 +5,5 @@
 # 
 
 ### We were given a .json file and Tracfone requested a model to predict **one-time-redeemers**.
-### A one-time-redeemer is a customer that only uses one redemption then goes inactive
+### A **one-time-redeemers** is a customer that only uses one redemption then goes inactive
 ### We used a machine learning algorithm to perform the challenge
